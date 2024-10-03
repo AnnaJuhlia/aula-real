@@ -5,6 +5,5 @@
 // function media (x,y,z){return(x,y,z)/3;}
 // document.write(media(num1,num2,num3));
 
-let estados=[
-'AC','AL','AP', 'AM','BA','CE','ES','GO','MA','MT','MS','MG','PA','PB','PR','PE','PI','RJ','RN','RS','RO','RR','SC','SP','SE','TO','DF',
-]
+let estados=
+['AC','AL','AP', 'AM','BA','CE','ES','GO','MA','MT','MS','MG','PA','PB','PR','PE','PI','RJ','RN','RS','RO','RR','SC','SP','SE','TO','DF']
